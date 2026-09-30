@@ -1,0 +1,61 @@
+# Environments / runtime caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+
+# Local credentials, access files and private configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+config/paths.local.json
+
+# Survey data and derived individual-level datasets
+data/
+private_data/
+inputs/
+*.dta
+*.sav
+*.sas7bdat
+*.xpt
+*.XPT
+*.pkl
+*.pickle
+*.parquet
+*.feather
+*.rds
+*.RData
+*.gz
+*.zip
+
+# Generated outputs, figures, documents and local validation runs
+outputs/
+results/
+results_audited/
+generated_workspace/
+*.png
+*.tif
+*.tiff
+*.pdf
+*.doc
+*.docx
+*.xlsx
+~$*
+
+# Aggregate results remain external in this code-only release
+*.csv
+!manifests/source_manifest.csv
+
+# Local drawing tools (not redistributable)
+.vivid/
+_utils/
+_templates/
+skills/

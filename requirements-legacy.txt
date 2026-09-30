@@ -1,0 +1,6 @@
+# Optional historical inverse-model/plotting branches, NOT needed by current runner.
+# These branches were collected but not rerun in this packaging task.
+-r requirements-empirical.txt
+jax
+numpyro
+seaborn

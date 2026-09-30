@@ -1,0 +1,6 @@
+# Preserve bytes and source hashes across checkout platforms.
+* -text
+*.py diff=python
+*.md diff
+*.json diff
+*.csv diff
