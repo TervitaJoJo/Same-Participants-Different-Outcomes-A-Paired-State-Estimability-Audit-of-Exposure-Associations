@@ -1,0 +1,9 @@
+scope,contrast,n,community_clusters,delta_log_OR_per10,ci_low,ci_high,successful_resamples,planned_resamples,interval_type
+common_definitions,M_minus_S,9224,441,-0.0125625974717044,-0.0277273399488978,-0.0001229969052388,494,500,paired community cluster percentile; unadjusted descriptive
+common_definitions,MT_minus_M,9224,441,0.0232204942297436,0.0140874410076997,0.0324733346801227,495,500,paired community cluster percentile; unadjusted descriptive
+common_definitions,SMT_minus_MT,9224,441,-0.0016238944672366,-0.0064736803639592,0.0021801997582471,500,500,paired community cluster percentile; unadjusted descriptive
+common_definitions,SMT_minus_M,9224,441,0.0215965997625069,0.0115548583153151,0.0312345313356398,495,500,paired community cluster percentile; unadjusted descriptive
+common_definitions_plausible,M_minus_S,9045,437,-0.0290314586842382,-0.0457848417120816,-0.0137800342874202,500,500,paired community cluster percentile; unadjusted descriptive
+common_definitions_plausible,MT_minus_M,9045,437,0.032974583737569,0.0245238334248493,0.0415006931750209,500,500,paired community cluster percentile; unadjusted descriptive
+common_definitions_plausible,SMT_minus_MT,9045,437,-0.0026080169920156,-0.0076522683748639,0.0019042982274105,500,500,paired community cluster percentile; unadjusted descriptive
+common_definitions_plausible,SMT_minus_M,9045,437,0.0303665667455534,0.0213222573916871,0.0399321624447115,500,500,paired community cluster percentile; unadjusted descriptive

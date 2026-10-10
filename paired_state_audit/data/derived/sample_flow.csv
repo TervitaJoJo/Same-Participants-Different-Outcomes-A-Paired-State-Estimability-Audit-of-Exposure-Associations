@@ -1,0 +1,27 @@
+programme,dataset,start_n,age_n,paired_n,smoking_n,complete_n,excluded_age,excluded_outcomes,excluded_smoking,excluded_covariates,entry_definition
+CHARLS,CHARLS 2011,17705,13128,10429,10378,10367,4577,2699,51,11,2011 harmonized wide file linked to the original health questionnaire using native string identifiers; no added age filter at entry.
+CHNS,CHNS 2009,5987,4652,4652,4652,4645,1335,0,0,7,"2009 harmonized examination frame, already restricted to age >=45 years and available systolic blood pressure."
+ELSA,ELSA w2,7666,6753,6676,6671,6530,913,77,5,141,"Harmonized interview records linked to the corresponding nurse-visit file, restricted to ages 50-110 years at entry."
+ELSA,ELSA w4,8568,7721,7636,7593,7476,847,85,43,117,"Harmonized interview records linked to the corresponding nurse-visit file, restricted to ages 50-110 years at entry."
+ELSA,ELSA w6,8024,7098,7035,7035,6933,926,63,0,102,"Harmonized interview records linked to the corresponding nurse-visit file, restricted to ages 50-110 years at entry."
+ELSA,ELSA w8,3525,2868,2851,2836,2791,657,17,15,45,"Harmonized interview records linked to the corresponding nurse-visit file, restricted to ages 50-110 years at entry."
+ELSA,ELSA w9,3067,2674,2457,2457,2436,393,217,0,21,"Harmonized interview records linked to the corresponding nurse-visit file, restricted to ages 50-110 years at entry."
+ENSANUT,ENSANUT 2012,35075,10479,3610,3606,3605,24596,6869,4,1,Harmonized examination/blood-pressure records linked to adult questionnaires; component availability and preprocessing differ by release.
+ENSANUT,ENSANUT 2018,17263,6136,6136,6131,6131,11127,0,5,0,Harmonized examination/blood-pressure records linked to adult questionnaires; component availability and preprocessing differ by release.
+ENSANUT,ENSANUT 2021,8265,3157,3135,3124,3124,5108,22,11,0,Harmonized examination/blood-pressure records linked to adult questionnaires; component availability and preprocessing differ by release.
+ENSANUT,ENSANUT 2022,8835,3667,3645,3642,3642,5168,22,3,0,Harmonized examination/blood-pressure records linked to adult questionnaires; component availability and preprocessing differ by release.
+ENSANUT,ENSANUT 2023,5052,2077,1320,1317,1317,2975,757,3,0,Harmonized examination/blood-pressure records linked to adult questionnaires; component availability and preprocessing differ by release.
+ENSANUT,ENSANUT 2024,9963,4083,2267,2266,2266,5880,1816,1,0,Harmonized examination/blood-pressure records linked to adult questionnaires; component availability and preprocessing differ by release.
+ENSANUT,ENSANUT 2025,8491,3954,3849,3834,3834,4537,105,15,0,Harmonized examination/blood-pressure records linked to adult questionnaires; component availability and preprocessing differ by release.
+HAALSI,HAALSI baseline,5059,3550,3445,3444,3444,1509,105,1,0,"All 5,059 records in the harmonized baseline frame."
+HRS,HRS 2018,17146,13770,5824,5820,5798,3376,7946,4,22,
+LASI,LASI w1,66617,49724,45322,45264,45264,16893,4402,58,0,"Harmonized wave-1 frame restricted to ages 45-110 years (66,617 of 73,408 input records)."
+MHAS,MHAS 2012,2086,1777,1768,1768,1760,309,9,0,8,
+NHANES,NHANES 1999-2000,4880,1998,1766,1763,1757,2882,232,3,6,"Demographic records aged >=20 years in the eight included cycles, left-linked to blood-pressure, diagnosis and smoking modules; reconstructed before complete-case selection."
+NHANES,NHANES 2005-2006,4979,1820,1680,1679,1677,3159,140,1,2,"Demographic records aged >=20 years in the eight included cycles, left-linked to blood-pressure, diagnosis and smoking modules; reconstructed before complete-case selection."
+NHANES,NHANES 2007-2008,5935,2635,2444,2442,2441,3300,191,2,1,"Demographic records aged >=20 years in the eight included cycles, left-linked to blood-pressure, diagnosis and smoking modules; reconstructed before complete-case selection."
+NHANES,NHANES 2009-2010,6218,2604,2451,2451,2446,3614,153,0,5,"Demographic records aged >=20 years in the eight included cycles, left-linked to blood-pressure, diagnosis and smoking modules; reconstructed before complete-case selection."
+NHANES,NHANES 2011-2012,5560,2341,2147,2145,2145,3219,194,2,0,"Demographic records aged >=20 years in the eight included cycles, left-linked to blood-pressure, diagnosis and smoking modules; reconstructed before complete-case selection."
+NHANES,NHANES 2013-2014,5769,2428,2285,2284,2282,3341,143,1,2,"Demographic records aged >=20 years in the eight included cycles, left-linked to blood-pressure, diagnosis and smoking modules; reconstructed before complete-case selection."
+NHANES,NHANES 2015-2016,5719,2449,2303,2299,2298,3270,146,4,1,"Demographic records aged >=20 years in the eight included cycles, left-linked to blood-pressure, diagnosis and smoking modules; reconstructed before complete-case selection."
+NHANES,NHANES 2017-2018,5569,2642,2408,2408,2404,2927,234,0,4,"Demographic records aged >=20 years in the eight included cycles, left-linked to blood-pressure, diagnosis and smoking modules; reconstructed before complete-case selection."

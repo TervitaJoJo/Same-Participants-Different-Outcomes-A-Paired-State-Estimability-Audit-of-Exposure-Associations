@@ -1,0 +1,14 @@
+metric,estimand,estimate,ci_low,ci_high,scale,interpretation
+Observed agreement,Overall paired M/S classification; no exposure stratification,0.7146715539693257,0.703259103108806,0.7252969609063766,proportion,Overall agreement does not encode exposure-specific association direction.
+Expected agreement,Overall paired M/S classification; no exposure stratification,0.5780244593217664,0.5691432333391993,0.5869352042772982,proportion,Chance agreement component used in Cohen's kappa.
+Cohen's kappa,Overall paired M/S classification; no exposure stratification,0.3238270503260187,0.3021440569484762,0.3437513858661334,kappa,Moderate overall agreement; it does not test the smoking-association direction.
+Cohen's kappa (current smokers),M/S agreement within current smokers; no association contrast,0.3219955424616125,0.2857386222002987,0.3554433103052868,kappa,Exposure-stratified agreement remains distinct from the paired smoking-association contrast.
+Cohen's kappa (never smokers),M/S agreement within never smokers; no association contrast,0.3293892309769743,0.3012459769696848,0.3575577369648368,kappa,Exposure-stratified agreement remains distinct from the paired smoking-association contrast.
+Cohen's kappa (former smokers),M/S agreement within former smokers; no association contrast,0.2900172846753417,0.229424374845334,0.3503107775224625,kappa,Exposure-stratified agreement remains distinct from the paired smoking-association contrast.
+Cohen's kappa (current versus never),M/S agreement within current versus never; no association contrast,0.3273488545395233,0.3043838180563651,0.3488205385452097,kappa,Exposure-stratified agreement remains distinct from the paired smoking-association contrast.
+OR(M),"Conditional smoking association, current versus noncurrent; measured hypertension",1.105120755313172,,,odds ratio,Point estimate above 1.
+OR(S),"Conditional smoking association, current versus noncurrent; reported hypertension",0.7368864189786503,,,odds ratio,Point estimate below 1; paired contrast interval is reported below.
+Delta_c,"log OR(S) minus log OR(M), current versus noncurrent",-0.4052761211424694,-0.5375079496980283,-0.2730442925869106,log odds ratio,Paired conditional contrast excludes zero.
+Delta_m,"Standardized marginal log OR(S) minus log OR(M), current versus noncurrent",-0.3408339356011121,-0.4902759610528956,-0.1913919101493285,log odds ratio,Standardized allocation estimand used for the CHARLS state audit.
+C_U,"Standardized allocation from U (M=1,S=0), current versus noncurrent",-0.1698271178456832,-0.2784898574879276,-0.0611643782034388,log odds ratio,One observable-state allocation component.
+C_V,"Standardized allocation from V (M=0,S=1), current versus noncurrent",-0.1710068177554288,-0.2725713894666852,-0.0694422460441724,log odds ratio,One observable-state allocation component.

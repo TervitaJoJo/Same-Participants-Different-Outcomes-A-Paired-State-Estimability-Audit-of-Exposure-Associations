@@ -1,0 +1,4 @@
+term,estimate,lo,hi,analysis_set,weighting,scale
+delta_m,-0.039,-0.311,0.232,HRS 2018 weighted eligible sample,weighted fitting and standardization,standardized log-OR difference
+C_U,0.055,-0.092,0.202,HRS 2018 weighted eligible sample,weighted fitting and standardization,allocation log-OR difference
+C_V,-0.094,-0.320,0.131,HRS 2018 weighted eligible sample,weighted fitting and standardization,allocation log-OR difference

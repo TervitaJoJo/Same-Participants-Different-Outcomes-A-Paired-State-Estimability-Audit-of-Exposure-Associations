@@ -1,0 +1,10 @@
+scenario,n,method,valid,zero_required_state_cell,fit_or_check_failure,ill_conditioned_hessian
+dependent_indicators,500,primary,382,18,0,0
+independent_indicators,500,primary,397,3,0,0
+near_boundary,500,primary,272,120,8,0
+near_boundary,1000,primary,366,32,2,0
+near_boundary,2000,primary,398,2,0,0
+nonlinear,500,correct_quadratic,388,0,11,1
+very_sparse,500,primary,12,385,3,0
+very_sparse,1000,primary,67,324,9,0
+very_sparse,2000,primary,207,181,11,1
